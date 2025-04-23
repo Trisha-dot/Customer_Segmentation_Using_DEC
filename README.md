@@ -1,4 +1,4 @@
-# 🧠 Customer Segmentation using Deep Embedded Clustering (DEC)
+# Title: Customer Segmentation using Deep Embedded Clustering (DEC)
 
 This repository provides a detailed overview of our final year B.Tech project focused on customer segmentation using a novel machine learning approach — Deep Embedded Clustering (DEC). This technique is capable of automatically identifying meaningful groups of customers based on purchasing behavior using both feature learning and clustering.
 
