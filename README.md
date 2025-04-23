@@ -1,1 +1,1 @@
-# Customer_Segmentation_Using_DEC
+Project Title : Pneumonia Detection Using CNN: A Deep Learning Approach
