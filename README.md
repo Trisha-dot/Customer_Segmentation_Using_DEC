@@ -64,11 +64,11 @@ The dataset was preprocessed and merged into a single customer-centric dataset u
 
 | Model         | Silhouette Score | Calinski-Harabasz Index |
 |---------------|------------------|--------------------------|
-| K-Means       | 0.535            | 2601.45                  |
-| DBSCAN        | 0.498            | 2293.41                  |
+| K-Means       | 0.585            | 2601.45                  |
+| DBSCAN        | 0.628            | 2293.41                  |
 | Hierarchical  | 0.512            | 2425.78                  |
 | RFM Only      | 0.521            | 2556.72                  |
-| **DEC**       | **0.562**        | **2734.89**              |
+| **DEC**       | **0.672**        | **2734.89**              |
 
 The results show that DEC produced the highest silhouette score and CH index, indicating well-separated and cohesive clusters.
 
